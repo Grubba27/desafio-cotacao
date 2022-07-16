@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@fastify/cors": "^8.0.0",
+    "axios": "^0.27.2",
+    "fastify": "^4.2.1",
+    "got": "^12.1.0",
+    "node-fetch": "^3.2.8"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
